@@ -1,0 +1,38 @@
+---
+
+port: 4000
+host: 0.0.0.0
+safe: false
+
+
+### site serving configuration ###
+exclude: [CNAME, README.md, .gitignore]
+permalink: /:title 
+timezone: null
+lsi: false
+markdown: kramdown
+
+
+### content configuration ###
+title:       "API Docs Development"
+keywords:    "API, REST, RPC, Jekyll, Static Site Generator, SSG, GitHub, GitLab, CICD"
+description: "A collection of resources about how to improve API documentation, write API docs, code APIs, create technical docs for APIs."
+source_link: "https://github.com/justwriteclick/apidos-dev"
+favicon:     #put a path like: "img/favicon.ico"
+touch_icon:  #put a path like: "img/apple-touch-icon.png"
+google_analytics_key: UA-85706588-3 ## put key here to enable tracking (blank to disable)
+
+
+### template colors, used site-wide via css ###
+colors:
+  black:     '#111111'
+  white:     '#f8f8f8'
+  blue:      '#08BDBD' # Max Blue Green
+  green:     '#ABFF4F' # French Lime
+  purple:    '#29bf12' # Kelly Green
+  orange:    '#ff9914' # Yellow Orange Color Wheel
+  turquoise: '#f21b3f' # Red Munsell
+
+kramdown:
+  auto_ids:  false
+
