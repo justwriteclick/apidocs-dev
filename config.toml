@@ -58,14 +58,14 @@ paginate = 5
     missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
-      logoText = "Terminal"
+      logoText = "API Docs Dev"
       logoHomeLink = "/"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
         identifier = "about"
-        name = "About"
-        url = "/about"
+        name = "Examples"
+        url = "/examples"
       [[languages.en.menu.main]]
         identifier = "resources"
         name = "Resources"

@@ -1,9 +1,9 @@
 ---
 title: "Investigating API Documentation"
 date: 2020-09-07T15:53:19-05:00
-draft: true
+draft: false
 ---
 
-![gif](../images/apidocs-dev.png)
+![API Docs Dev](../images/apidocs-dev.png)
 
 

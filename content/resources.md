@@ -20,6 +20,9 @@ JSON online validators for either pasted JSON or pasted URL of a JSON file.
 
 ## Education 
 
+[Documenting APIs: A guide for technical writers and engineers](https://idratherbewriting.com/learnapidoc/)
+[Learn Swagger and the Open API Specification](https://www.udemy.com/course/learn-swagger-and-the-open-api-specification/)
+
 
 ## Conferences and communities
 
